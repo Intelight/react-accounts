@@ -1,6 +1,7 @@
 lib/
 node_modules/
 coverage/
+jest/
 npm-debug.log
 .idea
 lerna-debug.log
